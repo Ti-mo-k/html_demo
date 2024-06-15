@@ -1,0 +1,11 @@
+body{
+    color: blue;
+    background-color: black;
+
+}
+button{
+    color: orange;
+    background-color: aqua;
+    padding: auto;
+    border-radius: 10px;
+}
